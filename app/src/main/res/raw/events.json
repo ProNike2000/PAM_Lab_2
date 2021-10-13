@@ -1,0 +1,20 @@
+[
+  {
+    "date": "11-10-2021",
+    "time_start": "10:10",
+    "time_end": "11:10",
+    "title": "title_1"
+  },
+  {
+    "date": "11-10-2021",
+    "time_start": "10:10",
+    "time_end": "12:10",
+    "title": "title_2"
+  },
+  {
+    "date": "12-10-2021",
+    "time_start": "10:10",
+    "time_end": "11:10",
+    "title": "title_3"
+  }
+]
